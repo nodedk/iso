@@ -7,7 +7,7 @@
     "test": "echo 'no test runner specified'"
   },
   "dependencies": {
-    "@nodedk/tools": "^0.3.0"
+    "@nodedk/tools": "^0.4.0"
   },
   "homepage": "https://github.com/nodedk/iso#readme",
   "repository": {
