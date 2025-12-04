@@ -1,6 +1,6 @@
 {
   "name": "@nodedk/iso",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NodeDK ISO",
   "author": "Vidar Eldøy <vidar@eldoy.com>",
   "scripts": {
